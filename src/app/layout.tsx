@@ -36,7 +36,7 @@ export default function RootLayout({
                 postalCode: '160047',
                 addressCountry: 'IN',
               },
-              telephone: '+91 172 456 7890',
+              telephone: '+91 84271 30707',
               email: 'contact@shreyaguptaco.com',
             }),
           }}
