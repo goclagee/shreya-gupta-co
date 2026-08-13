@@ -1,0 +1,9 @@
+{
+  "kiroAgent.autonomyLevel": "full",
+  "kiroAgent.autoApprove": true,
+  "kiroAgent.confirmCommands": false,
+  "kiroAgent.trustedTools": ["*"],
+"kiroAgent.trustedCommands": [
+    "*"
+]
+}
