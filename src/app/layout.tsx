@@ -31,12 +31,12 @@ export default function RootLayout({
                 'Chartered Accountancy firm offering audit, tax, M&A advisory, and compliance services',
               address: {
                 '@type': 'PostalAddress',
-                streetAddress: 'B-12, Second Floor, Connaught Place',
-                addressLocality: 'New Delhi',
-                postalCode: '110001',
+                streetAddress: 'SCO 73, Second Floor, Sector 47-C',
+                addressLocality: 'Chandigarh',
+                postalCode: '160047',
                 addressCountry: 'IN',
               },
-              telephone: '+91 11 4567 8900',
+              telephone: '+91 172 456 7890',
               email: 'contact@shreyaguptaco.com',
             }),
           }}

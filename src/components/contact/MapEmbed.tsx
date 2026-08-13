@@ -6,7 +6,7 @@ export default function MapEmbed() {
   const [hasError, setHasError] = useState(false);
 
   const mapSrc =
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.6743513647985!2d77.21766!3d28.6328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd37b741d057%3A0xcdee88e47393c3f1!2sConnaught%20Place%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin';
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.5!2d76.6761927!3d30.7427113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fefe3eb6b8849%3A0xbac70be22ee81f14!2sShreya%20Gupta%20%26%20Co.!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin';
 
   if (hasError) {
     return (
@@ -31,7 +31,7 @@ export default function MapEmbed() {
             />
           </svg>
           <p className="text-text-secondary text-sm">
-            Connaught Place, New Delhi – 110001
+            Shreya Gupta & Co., Sector 47-C, Chandigarh – 160047
           </p>
           <p className="text-text-secondary text-xs mt-1">
             Map could not be loaded
@@ -51,7 +51,7 @@ export default function MapEmbed() {
         allowFullScreen
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        title="Office Location - Connaught Place, New Delhi"
+        title="Office Location - Shreya Gupta & Co., Chandigarh"
         onError={() => setHasError(true)}
       />
     </div>
