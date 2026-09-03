@@ -13,34 +13,24 @@ interface Milestone {
 
 const milestones: Milestone[] = [
   {
-    year: '2016',
+    year: '2020',
     description:
-      'Shreya Gupta cleared CA Final exams with distinction, becoming a member of ICAI',
-  },
-  {
-    year: '2017',
-    description:
-      'Founded Shreya Gupta & Co. with a focus on tax advisory and audit services',
-  },
-  {
-    year: '2019',
-    description:
-      'Expanded services to include M&A advisory and business valuation for mid-market firms',
+      'Shreya Gupta cleared CA Final exams with distinction, becoming a member of ICAI.',
   },
   {
     year: '2021',
     description:
-      'Launched dedicated Startup Advisory vertical, supporting 50+ early-stage companies',
+      'Founded Shreya Gupta & Co. with a focus on tax advisory and audit services.',
   },
   {
     year: '2023',
     description:
-      'Crossed 500+ happy clients milestone; expanded team to 15+ professionals',
+      'Launched a dedicated Startup Advisory vertical, supporting early-stage companies.',
   },
   {
-    year: '2024',
+    year: '2025',
     description:
-      'Introduced Virtual CFO services and wealth management for HNI clients',
+      'Introduced Virtual CFO services and crossed the milestone of 500+ happy clients.',
   },
 ];
 
