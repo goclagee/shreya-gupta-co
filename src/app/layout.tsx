@@ -31,13 +31,14 @@ export default function RootLayout({
                 'Chartered Accountancy firm offering audit, tax, M&A advisory, and compliance services',
               address: {
                 '@type': 'PostalAddress',
-                streetAddress: 'SCO 73, Second Floor, Sector 47-C',
-                addressLocality: 'Chandigarh',
-                postalCode: '160047',
+                streetAddress: 'Booth No. 35, Sector-125 New, Sunny Enclave',
+                addressLocality: 'Sahibzada Ajit Singh Nagar',
+                addressRegion: 'Punjab',
+                postalCode: '140301',
                 addressCountry: 'IN',
               },
               telephone: '+91 84271 30707',
-              email: 'contact@shreyaguptaco.com',
+              email: 'cashreyagupta11@gmail.com',
             }),
           }}
         />

@@ -267,9 +267,9 @@ export const testimonials: Testimonial[] = [
 
 export const contactInfo: ContactInfo = {
   firmName: "Shreya Gupta & Co.",
-  address: "SCO 73, Second Floor, Sector 47-C, Chandigarh – 160047, India",
+  address: "Booth No. 35, Sector-125 New, Sunny Enclave, Sahibzada Ajit Singh Nagar, Punjab 140301",
   phone: "+91 84271 30707",
-  email: "contact@shreyaguptaco.com",
+  email: "cashreyagupta11@gmail.com",
   officeHours: "Monday – Saturday: 10:00 AM – 7:00 PM",
 };
 
