@@ -15,22 +15,22 @@ const milestones: Milestone[] = [
   {
     year: '2020',
     description:
-      'Shreya Gupta cleared CA Final exams with distinction, becoming a member of ICAI.',
+      'Shreya Gupta cleared CA Final exams with distinction, becoming a member of ICAI',
   },
   {
     year: '2021',
     description:
-      'Founded Shreya Gupta & Co. with a focus on tax advisory and audit services.',
+      'Founded Shreya Gupta & Co. with a focus on tax advisory and audit services',
   },
   {
     year: '2023',
     description:
-      'Launched a dedicated Startup Advisory vertical, supporting early-stage companies.',
+      'Launched dedicated Startup Advisory vertical, supporting early-stage companies',
   },
   {
     year: '2025',
     description:
-      'Introduced Virtual CFO services and crossed the milestone of 500+ happy clients.',
+      'Introduced Virtual CFO services, Crossed 500+ happy clients milestone',
   },
 ];
 
