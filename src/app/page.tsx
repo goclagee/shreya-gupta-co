@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 import HeroSection from '@/components/home/HeroSection';
 import ServicesPreview from '@/components/home/ServicesPreview';
 import TrustIndicators from '@/components/home/TrustIndicators';
-import Testimonials from '@/components/home/Testimonials';
 
 export const metadata: Metadata = {
   title: 'Shreya Gupta & Co. | Chartered Accountants in New Delhi',
@@ -22,7 +21,6 @@ export default function HomePage() {
       <HeroSection />
       <ServicesPreview />
       <TrustIndicators />
-      <Testimonials />
     </>
   );
 }
